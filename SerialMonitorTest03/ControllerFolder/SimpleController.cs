@@ -137,7 +137,7 @@ namespace SerialMonitorTest03.ControllerFolder
         public void decreaseMotor(int motorNumber)
         {
             int temp = Convert.ToInt32(this._data.getPwm(motorNumber)) - Convert.ToInt32(this._mainWindow.txtDecraseCalInterval.Text);
-            String value = "M" +motorNumber.ToString()+ temp.ToString();
+            String value = "M" + motorNumber.ToString()+ temp.ToString();
             this._usb.sendData(value);
             Console.WriteLine("New Sending:" + value);
         }
