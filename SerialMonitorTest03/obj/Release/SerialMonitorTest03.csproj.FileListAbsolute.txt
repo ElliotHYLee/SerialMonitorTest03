@@ -37,3 +37,6 @@ C:\Users\Elliot\Documents\GitHub\SerialMonitorTest03\SerialMonitorTest03\obj\Rel
 C:\Users\Elliot\Documents\GitHub\SerialMonitorTest03\SerialMonitorTest03\obj\Release\SerialMonitorTest02.g.resources
 C:\Users\Elliot\Documents\GitHub\SerialMonitorTest03\SerialMonitorTest03\obj\Release\SerialMonitorTest03.Properties.Resources.resources
 C:\Users\Elliot\Documents\GitHub\SerialMonitorTest03\SerialMonitorTest03\obj\Release\SerialMonitorTest03.csproj.GenerateResource.Cache
+D:\GitHub\SerialMonitorTest03\SerialMonitorTest03\bin\Release\SerialMonitorTest02.exe.config
+D:\GitHub\SerialMonitorTest03\SerialMonitorTest03\obj\Release\SerialMonitorTest02.exe
+D:\GitHub\SerialMonitorTest03\SerialMonitorTest03\obj\Release\SerialMonitorTest02.pdb
